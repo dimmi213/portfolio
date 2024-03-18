@@ -1,7 +1,9 @@
 # Fullstack Developer
 
+####Technical Skills: C++, SQL, Java
+
 ### Education
-Major Software Engineering | Sai Gon University (2021-now)
+- Major Software Engineering | Sai Gon University (2021-now)
 
 ### Projects
 **Phone warehouse manage application (09/2022 - 12/2022)**
